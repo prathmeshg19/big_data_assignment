@@ -1,0 +1,32 @@
+(Aktas E, Meng Y, An Exploration of Big Data Practices in Retail Sector, 2017)
+https://www.mdpi.com/2305-6290/1/2/12
+
+
+(Akter, S., Wamba, S.F. Big data analytics in E-commerce: a systematic review and agenda for future research,2016) 
+https://link.springer.com/article/10.1007/s12525-016-0219-0#citeas
+
+(Big Data,Cloud Computing and Data Science Applications in Finance and Accounting,
+Jennifer Huttunen,Jaana Jauhiainen,Jaura Lehit,Annina Nylund,Minna Martikainen,Othmar Lehner,2019) 
+https://www.acrn-journals.eu/resources/SI08_2019b.pdf
+
+(Mumtaz Karatas, Levent Eriskin, Muhammet Deveci, Dragan Pamucar, Harish Garg, 
+Big Data for Healthcare Industry 4.0: Applications, challenges and future perspectives,2022) 
+(https://www.sciencedirect.com/science/article/pii/S0957417422003499)
+
+(Mohd Azeem, Abid Haleem, Shashi Bahl, Mohd Javaid, Rajiv Suman, Devaki Nandan, 
+Big data applications to take up major challenges across manufacturing industries: A brief review,2022) 
+https://www.sciencedirect.com/science/article/pii/S2214785321012098#s0095
+
+(Liu C, Liu X, Wu F, Xie M, Feng Y, Hu C. Using Artificial Intelligence (Watson for Oncology) 
+for Treatment Recommendations Amongst Chinese Patients with Lung Cancer: Feasibility Study,2018) 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6231834/
+
+(https://medium.com/@akshayjain_757396/advantages-and-disadvantages-of-logistic-regression-in-machine-learning-a6a247e42b20 ) 
+(https://www.geeksforgeeks.org/k-nearest-neighbours/ ) 
+(https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04 ) 
+(https://dhirajkumarblog.medium.com/top-4-advantages-and-disadvantages-of-support-vector-machine-or-svm-a3c06a2b107 ) 
+(https://www.linkedin.com/advice/3/what-advantages-disadvantages-using-k-means ) 
+
+(Ahuja, R., Chug, A., Gupta, S., Ahuja, P., Kohli, S., 
+Classification and Clustering Algorithms of Machine Learning with their Applications,2020) 
+https://link.springer.com/chapter/10.1007/978-3-030-28553-1_11
